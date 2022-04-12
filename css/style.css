@@ -1,0 +1,74 @@
+
+ 		 /* color: Black;
+   		text-decoration: none;
+   		text-align: center;
+   		font-size: 50px;  */
+   	p{
+   		color: black;
+   		font-family: impact;
+		   text-align: center;
+   	} 
+   	h3{
+   		color: blue;
+   		text-align: center;
+   		font-size: 30px;
+   	}
+   	#shannalist{
+   		color: blue;
+   		font-size:35;
+		   font-style:bold;
+   	}
+   	.favlist{
+   		color:black;
+   		text-decoration:underline;
+   		font-size: 25px;
+   		font-style: bold;
+		   
+   	}
+   	#div1{
+   		background-color: yellow;
+         width:145px;height: 50px;
+   		text-align:center;
+         display: inline-block;
+		 table-layout: auto;
+		 border: dashed;
+		 position: static;
+   	}
+   	form{
+   		padding: 15px;
+   		background-color: pink;
+   		font-style: italic;
+   		border-style: solid;
+   		font-weight: 900px;
+         width: 300;
+   	}
+	  input[type=button]:hover {
+   		border: solid;
+   		background-color: red;
+		transition: .5s;		
+		color: green;
+   	
+   	}
+
+	   h2{
+		   text-align:center
+	   }
+      nav{
+		  
+		  font-style:auto;
+		  font-size:30px;
+		  border: solid;
+		  position: static;
+		  text-decoration: none;	
+	  }
+	  body{
+		background-color:navajowhite;
+		font-size: 25px;
+		margin-inline: 10px;
+		padding: auto;
+	  }
+	  #legend{
+		  Font-size: 50px;
+		  color: rgb(9, 93, 21)
+	  }
+	
